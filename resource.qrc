@@ -1,0 +1,18 @@
+<RCC>
+    <qresource prefix="/images"/>
+    <qresource prefix="/">
+        <file>resources/claim.png</file>
+        <file>resources/client.png</file>
+        <file>resources/complain.png</file>
+        <file>resources/contract.png</file>
+        <file>resources/employee.png</file>
+        <file>resources/partnership.png</file>
+        <file>resources/menu.png</file>
+        <file>resources/claim_black.png</file>
+        <file>resources/client_black.png</file>
+        <file>resources/complain_black.png</file>
+        <file>resources/contract_black.png</file>
+        <file>resources/employee_blcak.png</file>
+        <file>resources/partnership_black.png</file>
+    </qresource>
+</RCC>
